@@ -1,0 +1,7 @@
+{
+    "baseUrl": "https://api.example.com",
+    "environment": "production",
+    "version": "1.0.0",
+    "active": true
+  }
+  
